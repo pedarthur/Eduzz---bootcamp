@@ -1,6 +1,6 @@
 ## GIT
 
-Mostrar modificações:
+* Mostrar modificações:
 
 `git status`
  
