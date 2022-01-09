@@ -1,17 +1,26 @@
 ## GIT
 
-mostrar modificações:
+Mostrar modificações:
 
-git status
+`git status`
+ 
+Baixar alterações do repositório remoto (trazer da internet)
 
-adicionar todas modificações:
+`git pull`
 
-git add .
+### Adicionar modificações no Git
 
-salvar modificações localmente:
+1. Adicionar todas modificações:
 
-git commit -m "mensagem das alterações" - (devo colocar aspas)
+`git add .`
 
-Enviar para o repositório remoto: (envio para internet)
+2. Salvar modificações localmente:
 
-git push
+`git commit -m "mensagem das alterações" - (devo colocar aspas)`
+
+3. Enviar para o repositório remoto: (envio para internet)
+
+`git push`
+
+
+
