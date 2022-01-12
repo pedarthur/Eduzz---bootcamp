@@ -4,7 +4,7 @@
 
 `git status`
  
-Baixar alterações do repositório remoto (trazer da internet)
+* Baixar alterações do repositório remoto (trazer da internet)
 
 `git pull`
 
